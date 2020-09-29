@@ -32,7 +32,7 @@ No se puede acceder con estas credenciales ni via SSH ni en wp-admin. Otro vecto
 
 ![](/images/hackerfest2019/rapid7.PNG)
 
-Se ingresa a metasploit los datos que se solicitan para el exploit
+Se ingresa a metasploit los datos que se solicitan para el exploit.
 
 + RHOST 192.168.153.32
 + LHOST 192.168.49.153
