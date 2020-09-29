@@ -45,6 +45,7 @@ Se ingresa a metasploit los datos que se solicitan para el exploit.
 
 ![](/images/hackerfest2019/exploit.png)
 
+**Flag{92bf511a#######################}**
 
 ## Referencias
 
