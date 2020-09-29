@@ -8,13 +8,13 @@
 
 ![](images/hackerfest2019/nmap1.png)
 
-![](/images/hackerfest2019/nmap2.PNG)
+![](/images/hackerfest2019/nmap2.png)
 
 Dentro de los archivos que existen dentro de FTP esta wp-config.php
 
 **Extraccion de archivo de configuracion de wordpress**
 
-![](/images/hackerfest2019/accesoftp.PNG)
+![](/images/hackerfest2019/accesoftp.png)
 
 **Revision del contenido de wp-config.php**
 
