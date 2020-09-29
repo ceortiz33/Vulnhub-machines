@@ -18,19 +18,19 @@ Dentro de los archivos que existen dentro de FTP esta wp-config.php
 
 **Revision del contenido de wp-config.php**
 
-![](/images/hackerfest2019/wp-config.PNG)
+![](/images/hackerfest2019/wp-config.png)
 
 No se puede acceder con estas credenciales ni via SSH ni en wp-admin. Otro vector de ataque seria utilizando un exploit para webmin
 
 **Exploits sugeridos para Webmin**
 
-![](/images/hackerfest2019/searchsploit.PNG)
+![](/images/hackerfest2019/searchsploit.png)
 
-![](/images/hackerfest2019/webmin.PNG)
+![](/images/hackerfest2019/webmin.png)
 
 **Configuracion en Rapid7**
 
-![](/images/hackerfest2019/rapid7.PNG)
+![](/images/hackerfest2019/rapid7.png)
 
 Se ingresa a metasploit los datos que se solicitan para el exploit.
 
@@ -43,7 +43,7 @@ Se ingresa a metasploit los datos que se solicitan para el exploit.
 
 **Exploit**
 
-![](/images/hackerfest2019/exploit.PNG)
+![](/images/hackerfest2019/exploit.png)
 
 
 ## Referencias
