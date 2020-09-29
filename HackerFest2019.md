@@ -6,7 +6,7 @@
 
 **Escaneo de Puertos**
 
-![](/images/hackerfest2019/nmap1.PNG)
+![](images/hackerfest2019/nmap1.PNG)
 
 ![](/images/hackerfest2019/nmap2.PNG)
 
